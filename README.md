@@ -1,5 +1,10 @@
 ### He there 👋 i'm youenn.
 
+i'm a 18 y/o frensh student in computeur science at 42Angouleme.
+
+i'm coding mainly in C and python 
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,python" alt="Programming languages" height="40"/></a>
 <!--
 **yroussea/yroussea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
